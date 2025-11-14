@@ -1,0 +1,2 @@
+Este proyecto de carácter educativo, pero como prueba de ejercicio de la asignatura de Despliegue para aprender a manejar
+la página de Github y los comandos de Git, desarrollando así conocimientos para un mejor manejo de versiones.
